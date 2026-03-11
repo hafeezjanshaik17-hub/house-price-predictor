@@ -46,7 +46,8 @@ http://127.0.0.1:5000
 
 ## 📸 Web App Screenshot
 
-(Add screenshot here)
+![Boston House Price Predictor](webapp.png)
+
 
 ## 🔮 Future Improvements
 
